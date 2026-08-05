@@ -1,22 +1,26 @@
-body{
+body {
     background-color: rgb(43, 27, 185);
-    color: #222
-    fonte-family Arial, sans-serif;
+    color: #222;
+    font-family: Arial, sans-serif;
 }
-header{
+
+header {
     background-color: aqua;
     color: rgb(0, 0, 0);
-    teste-align:center;
+    text-align: center;
     padding: 30px;
 }
-h1{
+
+h1 {
     font-size: 36px;
 
 }
+
 h2 {
-    color:azure;
-    }
-    p {
-        font-size:18px;
-        line-height: 1.6;
-    }
+    color: azure;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+}
